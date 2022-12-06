@@ -12,7 +12,7 @@
   <h3 align="center">Blog Application</h3>
 
   <p align="center">
-    A full stack Blog application created using MERN stack in which everyone can read, write and edit Blogs!
+    A full stack Blog application created using MERN stack in which everyone can read, write and edit Blogs!. Find the code in master branch
     <br />
     <br />
   </p>
